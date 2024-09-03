@@ -3,8 +3,6 @@ package bank.management.system;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-import java.text.SimpleDateFormat;
-import java.util.Date;
 
 public class SignupTwo extends JFrame implements ActionListener {
 
